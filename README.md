@@ -17,3 +17,5 @@ In main I made a menu with 3 options. You can compress, decompress or exit. It a
 
 #OUTPUT
 
+<img width="327" height="173" alt="Image" src="https://github.com/user-attachments/assets/c2605180-918f-4f3c-b3a3-1b5cf19391d2" />
+
